@@ -35,3 +35,4 @@ branches:
   except:
     - website
 
+build_image: drydock/u12pyt:tip
